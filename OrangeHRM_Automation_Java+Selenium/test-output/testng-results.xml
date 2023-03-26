@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="16" passed="15" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-25T16:21:29 EDT" name="Orange HRM Automation" finished-at="2023-03-25T16:24:26 EDT" duration-ms="176368">
+    <groups>
+    </groups>
+    <test started-at="2023-03-25T16:21:29 EDT" name="Test" finished-at="2023-03-25T16:24:26 EDT" duration-ms="176368">
+      <class name="com.Automation.TestsCases.HomePage_Test">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Automation.TestsCases.HomePage_Test@4be29ed9]" started-at="2023-03-25T16:22:12 EDT" name="setup" finished-at="2023-03-25T16:22:20 EDT" duration-ms="8379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="homepageTitle()[pri:1, instance:com.Automation.TestsCases.HomePage_Test@4be29ed9]" started-at="2023-03-25T16:22:20 EDT" name="homepageTitle" finished-at="2023-03-25T16:22:20 EDT" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepageTitle -->
+        <test-method is-config="true" signature="closingBrowser()[pri:0, instance:com.Automation.TestsCases.HomePage_Test@4be29ed9]" started-at="2023-03-25T16:22:20 EDT" name="closingBrowser" finished-at="2023-03-25T16:22:21 EDT" duration-ms="607" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingBrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Automation.TestsCases.HomePage_Test@4be29ed9]" started-at="2023-03-25T16:22:21 EDT" name="setup" finished-at="2023-03-25T16:22:28 EDT" duration-ms="7329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="checkingUser()[pri:2, instance:com.Automation.TestsCases.HomePage_Test@4be29ed9]" started-at="2023-03-25T16:22:28 EDT" name="checkingUser" finished-at="2023-03-25T16:22:28 EDT" duration-ms="412" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkingUser -->
+        <test-method is-config="true" signature="closingBrowser()[pri:0, instance:com.Automation.TestsCases.HomePage_Test@4be29ed9]" started-at="2023-03-25T16:22:28 EDT" name="closingBrowser" finished-at="2023-03-25T16:22:29 EDT" duration-ms="620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingBrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Automation.TestsCases.HomePage_Test@4be29ed9]" started-at="2023-03-25T16:22:29 EDT" name="setup" finished-at="2023-03-25T16:22:36 EDT" duration-ms="7319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="links()[pri:3, instance:com.Automation.TestsCases.HomePage_Test@4be29ed9]" started-at="2023-03-25T16:22:36 EDT" name="links" finished-at="2023-03-25T16:22:37 EDT" duration-ms="778" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- links -->
+        <test-method is-config="true" signature="closingBrowser()[pri:0, instance:com.Automation.TestsCases.HomePage_Test@4be29ed9]" started-at="2023-03-25T16:22:37 EDT" name="closingBrowser" finished-at="2023-03-25T16:22:38 EDT" duration-ms="604" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingBrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Automation.TestsCases.HomePage_Test@4be29ed9]" started-at="2023-03-25T16:22:38 EDT" name="setup" finished-at="2023-03-25T16:22:45 EDT" duration-ms="7471" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clickOnRecruitment()[pri:4, instance:com.Automation.TestsCases.HomePage_Test@4be29ed9]" started-at="2023-03-25T16:22:45 EDT" name="clickOnRecruitment" finished-at="2023-03-25T16:22:50 EDT" duration-ms="5328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnRecruitment -->
+        <test-method is-config="true" signature="closingBrowser()[pri:0, instance:com.Automation.TestsCases.HomePage_Test@4be29ed9]" started-at="2023-03-25T16:22:50 EDT" name="closingBrowser" finished-at="2023-03-25T16:22:51 EDT" duration-ms="619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingBrowser -->
+      </class> <!-- com.Automation.TestsCases.HomePage_Test -->
+      <class name="com.Automation.TestsCases.CreatingCandidates_Test">
+        <test-method is-config="true" signature="setupCreatingCandidate()[pri:0, instance:com.Automation.TestsCases.CreatingCandidates_Test@4b013c76]" started-at="2023-03-25T16:23:28 EDT" name="setupCreatingCandidate" finished-at="2023-03-25T16:23:38 EDT" duration-ms="10321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupCreatingCandidate -->
+        <test-method signature="createNewCandidate(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:com.Automation.TestsCases.CreatingCandidates_Test@4b013c76]" started-at="2023-03-25T16:23:38 EDT" name="createNewCandidate" data-provider="getCRMTestData" finished-at="2023-03-25T16:23:42 EDT" duration-ms="3628" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tom]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Peter]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Macdonald]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Tom@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewCandidate -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.Automation.TestsCases.CreatingCandidates_Test@4b013c76]" started-at="2023-03-25T16:23:42 EDT" name="teardown" finished-at="2023-03-25T16:23:42 EDT" duration-ms="637" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setupCreatingCandidate()[pri:0, instance:com.Automation.TestsCases.CreatingCandidates_Test@4b013c76]" started-at="2023-03-25T16:23:42 EDT" name="setupCreatingCandidate" finished-at="2023-03-25T16:23:52 EDT" duration-ms="9962" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupCreatingCandidate -->
+        <test-method signature="createNewCandidate(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:com.Automation.TestsCases.CreatingCandidates_Test@4b013c76]" started-at="2023-03-25T16:23:52 EDT" name="createNewCandidate" data-provider="getCRMTestData" finished-at="2023-03-25T16:23:56 EDT" duration-ms="3802" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Omkar]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[T]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Shah]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[om@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewCandidate -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.Automation.TestsCases.CreatingCandidates_Test@4b013c76]" started-at="2023-03-25T16:23:56 EDT" name="teardown" finished-at="2023-03-25T16:23:57 EDT" duration-ms="621" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setupCreatingCandidate()[pri:0, instance:com.Automation.TestsCases.CreatingCandidates_Test@4b013c76]" started-at="2023-03-25T16:23:57 EDT" name="setupCreatingCandidate" finished-at="2023-03-25T16:24:07 EDT" duration-ms="9925" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupCreatingCandidate -->
+        <test-method signature="createNewCandidate(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:com.Automation.TestsCases.CreatingCandidates_Test@4b013c76]" started-at="2023-03-25T16:24:07 EDT" name="createNewCandidate" data-provider="getCRMTestData" finished-at="2023-03-25T16:24:10 EDT" duration-ms="3824" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ali]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[A]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Abdal]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ali@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewCandidate -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.Automation.TestsCases.CreatingCandidates_Test@4b013c76]" started-at="2023-03-25T16:24:10 EDT" name="teardown" finished-at="2023-03-25T16:24:11 EDT" duration-ms="628" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setupCreatingCandidate()[pri:0, instance:com.Automation.TestsCases.CreatingCandidates_Test@4b013c76]" started-at="2023-03-25T16:24:11 EDT" name="setupCreatingCandidate" finished-at="2023-03-25T16:24:21 EDT" duration-ms="10363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupCreatingCandidate -->
+        <test-method signature="createNewCandidate(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:com.Automation.TestsCases.CreatingCandidates_Test@4b013c76]" started-at="2023-03-25T16:24:21 EDT" name="createNewCandidate" data-provider="getCRMTestData" finished-at="2023-03-25T16:24:25 EDT" duration-ms="3786" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Paresh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[A]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Shah]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[p@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewCandidate -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.Automation.TestsCases.CreatingCandidates_Test@4b013c76]" started-at="2023-03-25T16:24:25 EDT" name="teardown" finished-at="2023-03-25T16:24:26 EDT" duration-ms="614" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.Automation.TestsCases.CreatingCandidates_Test -->
+      <class name="com.Automation.TestsCases.RecuritmentPage_Test">
+        <test-method is-config="true" signature="setupForRecruitment()[pri:0, instance:com.Automation.TestsCases.RecuritmentPage_Test@548d708a]" started-at="2023-03-25T16:22:51 EDT" name="setupForRecruitment" finished-at="2023-03-25T16:23:00 EDT" duration-ms="8865" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupForRecruitment -->
+        <test-method signature="verifyingRecrutmentPage()[pri:1, instance:com.Automation.TestsCases.RecuritmentPage_Test@548d708a]" started-at="2023-03-25T16:23:00 EDT" name="verifyingRecrutmentPage" finished-at="2023-03-25T16:23:00 EDT" duration-ms="463" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyingRecrutmentPage -->
+        <test-method is-config="true" signature="teardwon()[pri:0, instance:com.Automation.TestsCases.RecuritmentPage_Test@548d708a]" started-at="2023-03-25T16:23:00 EDT" name="teardwon" finished-at="2023-03-25T16:23:01 EDT" duration-ms="614" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardwon -->
+        <test-method is-config="true" signature="setupForRecruitment()[pri:0, instance:com.Automation.TestsCases.RecuritmentPage_Test@548d708a]" started-at="2023-03-25T16:23:01 EDT" name="setupForRecruitment" finished-at="2023-03-25T16:23:10 EDT" duration-ms="9073" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupForRecruitment -->
+        <test-method signature="clickingVacancies()[pri:2, instance:com.Automation.TestsCases.RecuritmentPage_Test@548d708a]" started-at="2023-03-25T16:23:10 EDT" name="clickingVacancies" finished-at="2023-03-25T16:23:14 EDT" duration-ms="3620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickingVacancies -->
+        <test-method is-config="true" signature="teardwon()[pri:0, instance:com.Automation.TestsCases.RecuritmentPage_Test@548d708a]" started-at="2023-03-25T16:23:14 EDT" name="teardwon" finished-at="2023-03-25T16:23:14 EDT" duration-ms="617" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardwon -->
+        <test-method is-config="true" signature="setupForRecruitment()[pri:0, instance:com.Automation.TestsCases.RecuritmentPage_Test@548d708a]" started-at="2023-03-25T16:23:14 EDT" name="setupForRecruitment" finished-at="2023-03-25T16:23:23 EDT" duration-ms="8715" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupForRecruitment -->
+        <test-method signature="clickingAddCandidate()[pri:3, instance:com.Automation.TestsCases.RecuritmentPage_Test@548d708a]" started-at="2023-03-25T16:23:23 EDT" name="clickingAddCandidate" finished-at="2023-03-25T16:23:26 EDT" duration-ms="3156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickingAddCandidate -->
+        <test-method is-config="true" signature="teardwon()[pri:0, instance:com.Automation.TestsCases.RecuritmentPage_Test@548d708a]" started-at="2023-03-25T16:23:26 EDT" name="teardwon" finished-at="2023-03-25T16:23:27 EDT" duration-ms="611" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardwon -->
+      </class> <!-- com.Automation.TestsCases.RecuritmentPage_Test -->
+      <class name="com.Automation.TestsCases.LoginPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Automation.TestsCases.LoginPageTest@2ddc9a9f]" started-at="2023-03-25T16:21:30 EDT" name="setup" finished-at="2023-03-25T16:21:37 EDT" duration-ms="7788" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="titleTest()[pri:1, instance:com.Automation.TestsCases.LoginPageTest@2ddc9a9f]" started-at="2023-03-25T16:21:37 EDT" name="titleTest" finished-at="2023-03-25T16:21:37 EDT" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleTest -->
+        <test-method is-config="true" signature="closeBs()[pri:0, instance:com.Automation.TestsCases.LoginPageTest@2ddc9a9f]" started-at="2023-03-25T16:21:37 EDT" name="closeBs" finished-at="2023-03-25T16:21:38 EDT" duration-ms="655" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBs -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Automation.TestsCases.LoginPageTest@2ddc9a9f]" started-at="2023-03-25T16:21:38 EDT" name="setup" finished-at="2023-03-25T16:21:44 EDT" duration-ms="5510" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validatingCRMimage()[pri:2, instance:com.Automation.TestsCases.LoginPageTest@2ddc9a9f]" started-at="2023-03-25T16:21:44 EDT" name="validatingCRMimage" finished-at="2023-03-25T16:21:44 EDT" duration-ms="394" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: 
+at org.testng.AssertJUnit.fail(AssertJUnit.java:65)
+at org.testng.AssertJUnit.assertTrue(AssertJUnit.java:23)
+at org.testng.AssertJUnit.assertTrue(AssertJUnit.java:33)
+at com.Automation.TestsCases.LoginPageTest.validatingCRMimage(LoginPageTest.java:57)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingCRMimage -->
+        <test-method is-config="true" signature="closeBs()[pri:0, instance:com.Automation.TestsCases.LoginPageTest@2ddc9a9f]" started-at="2023-03-25T16:21:44 EDT" name="closeBs" finished-at="2023-03-25T16:21:45 EDT" duration-ms="617" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBs -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Automation.TestsCases.LoginPageTest@2ddc9a9f]" started-at="2023-03-25T16:21:45 EDT" name="setup" finished-at="2023-03-25T16:21:50 EDT" duration-ms="5561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="forgotPasswortdText()[pri:3, instance:com.Automation.TestsCases.LoginPageTest@2ddc9a9f]" started-at="2023-03-25T16:21:50 EDT" name="forgotPasswortdText" finished-at="2023-03-25T16:21:51 EDT" duration-ms="402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotPasswortdText -->
+        <test-method is-config="true" signature="closeBs()[pri:0, instance:com.Automation.TestsCases.LoginPageTest@2ddc9a9f]" started-at="2023-03-25T16:21:51 EDT" name="closeBs" finished-at="2023-03-25T16:21:51 EDT" duration-ms="599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBs -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Automation.TestsCases.LoginPageTest@2ddc9a9f]" started-at="2023-03-25T16:21:51 EDT" name="setup" finished-at="2023-03-25T16:21:57 EDT" duration-ms="5568" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="version()[pri:4, instance:com.Automation.TestsCases.LoginPageTest@2ddc9a9f]" started-at="2023-03-25T16:21:57 EDT" name="version" finished-at="2023-03-25T16:21:57 EDT" duration-ms="399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- version -->
+        <test-method is-config="true" signature="closeBs()[pri:0, instance:com.Automation.TestsCases.LoginPageTest@2ddc9a9f]" started-at="2023-03-25T16:21:57 EDT" name="closeBs" finished-at="2023-03-25T16:21:58 EDT" duration-ms="611" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBs -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Automation.TestsCases.LoginPageTest@2ddc9a9f]" started-at="2023-03-25T16:21:58 EDT" name="setup" finished-at="2023-03-25T16:22:03 EDT" duration-ms="5514" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login()[pri:5, instance:com.Automation.TestsCases.LoginPageTest@2ddc9a9f]" started-at="2023-03-25T16:22:03 EDT" name="login" finished-at="2023-03-25T16:22:11 EDT" duration-ms="7478" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="closeBs()[pri:0, instance:com.Automation.TestsCases.LoginPageTest@2ddc9a9f]" started-at="2023-03-25T16:22:11 EDT" name="closeBs" finished-at="2023-03-25T16:22:12 EDT" duration-ms="615" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBs -->
+      </class> <!-- com.Automation.TestsCases.LoginPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Orange HRM Automation -->
+</testng-results>
