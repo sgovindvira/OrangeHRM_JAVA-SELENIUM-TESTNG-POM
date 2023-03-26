@@ -19,7 +19,7 @@ public class TestBase {
 	public	static WebDriver driver;
 	public	static Properties prop;
 	public static JavascriptExecutor jse;
-	//Update Testing for github
+	
 	
 /*
 	public TestBase() {
